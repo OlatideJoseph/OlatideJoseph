@@ -37,7 +37,7 @@
 <br>
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=OlatideJoseph)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com?user=OlatideJoseph" alt="GitHub Streak" /><
 </div>
 <br><br>
 
