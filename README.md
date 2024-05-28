@@ -7,8 +7,7 @@
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
-**About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 - 🔭 I’m currently building a [**Portfolio Project**](https://github.com/OlatideJoseph/webcrawler)
 
@@ -25,7 +24,6 @@
 
 [![Webcrawler's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OlatideJoseph&bg_color=ffffff&color=708090&line=21fc0d&point=000000&area=true&hide_border=true)](https://github.com/OlatideJoseph/)
 
-
 <br>
 <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OlatideJoseph&show_icons=true&locale=en&layout=compact" alt="OlatideJoseph" />
@@ -39,7 +37,6 @@
 <br>
 
 <div align="center">
-  
   [![GitHub Streak](https://streak-stats.demolab.com/?user=OlatideJoseph)](https://git.io/streak-stats)
 </div>
 <br><br>
