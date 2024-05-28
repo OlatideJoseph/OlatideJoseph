@@ -9,20 +9,18 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<div align="center">
-	- 🔭 I’m currently building a [**Portfolio Project**](https://github.com/OlatideJoseph/webcrawler)
+- 🔭 I’m currently building a [**Portfolio Project**](https://github.com/OlatideJoseph/webcrawler)
 
-	- 💬 Ask me about **Tech**
+- 💬 Ask me about **Tech**
 
-	- ⚡ Fun fact: **In Tech The Future Lies.**
+- ⚡ Fun fact: **In Tech The Future Lies.**
 
-	- 📨️ Email: *olatidejoseph17@gmail.com*
+- 📨️ Email: *olatidejoseph17@gmail.com*
 
-	-  😂 Here is a random joke that'll make you laugh!
+-  😂 Here is a random joke that'll make you laugh!
 
 
-	![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
-</div>
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
 
 [![Webcrawler's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OlatideJoseph&bg_color=ffffff&color=708090&line=21fc0d&point=000000&area=true&hide_border=true)](https://github.com/OlatideJoseph/)
 
