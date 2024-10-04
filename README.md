@@ -5,8 +5,6 @@
 	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=15F7A5&random=false&width=435&lines=Hi+there+%F0%9F%91%8B++I'm+Olatide+;Details+about+me...;Software+Engineer;Full-Stack+Developer;Tech+Problem+Solver" alt="Notice !!!" />
 </div>
 ---
-<a href="https://github.com/DenverCoder1"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
----
 <br>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
