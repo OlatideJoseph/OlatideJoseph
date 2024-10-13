@@ -26,7 +26,7 @@
 
 <br>
 <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OlatideJoseph&show_icons=true&locale=en&layout=compact" alt="OlatideJoseph" />
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlatideJoseph&layout=donut-vertical)](https://github-readme-stats.vercel.app/api/top-langs/?username=OlatideJoseph&layout=donut-vertical)
 </p>
 
 <br>
