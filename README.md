@@ -26,7 +26,7 @@
 
 <br>
 <p align="center">
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlatideJoseph&layout=donut-vertical)](https://github-readme-stats.vercel.app/api/top-langs/?username=OlatideJoseph&layout=donut-vertical)
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlatideJoseph&layout=donut-vertical" alt="Top languages"/>
 </p>
 
 <br>
