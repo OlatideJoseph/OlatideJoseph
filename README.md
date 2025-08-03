@@ -1,5 +1,79 @@
-## OlatideJoseph/WebCrawler
-** ✨ Tech Enthusiast ✨
+# OlatideJoseph/WebCrawler
+## 👋 Hi, I'm Olatide Joseph Adeniyi
+
+**AI Explorer | Full-Stack Developer | C++ Enthusiast | Creative Technologist**
+
+Welcome to my GitHub! I'm a passionate developer based in Nigeria, diving deep into the world of intelligent systems, real-time simulations, and full-stack innovation. I love building with purpose—whether it’s a smart web app, a scraping engine, or an AI-powered pipeline for oil & gas.
+
+---
+
+## 🚀 What I Do
+
+- 🔭 Currently exploring **C++** and contributing to the **CARLA simulator** for autonomous vehicles  
+- ⚙️ Working with **Vite**, **React + TailwindCSS**, **ShadCN**, and **Firebase Messaging**  
+- 🧠 Diving into **Machine Learning**, **Web Scraping**, and **Algorithmic Trading**  
+- 🏗️ Learning full-stack **Anime Production** (2D/3D, including Houdini)  
+- 🔧 Building practical solutions in **Python**, **Django**, and **Linux environments**
+
+---
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)  
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)  
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
+
+---
+
+## 📚 Currently Learning
+
+- 🤖 **Hands-On Machine Learning** (paused, but resuming soon)  
+- 📘 **Web Scraping with Python** by Ryan Mitchell  
+- 📈 AI in Finance with **Yves Hilpisch's** books  
+- 🎬 Full-stack anime workflows using **Blender**, **Houdini**, and **Stable Diffusion**
+
+---
+
+## 🧩 Projects
+
+- 🛣 **CARLA Simulator Contributions** – learning and contributing to this powerful AV research platform
+- 🔍 **Web Crawlers & Data Pipelines** – built for intelligent scraping and parsing across industries
+- 📡 **Offline-First Vite PWAs** – Vite + Service Worker integration to handle offline notifications gracefully
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: [@OlatideJoseph](https://github.com/OlatideJoseph)  
+- Email: *olatidejoseph@gmail.com*  
+- Open to: Collaboration, Mentoring, and Side Projects
+
+---
+
+## 📊 GitHub Stats
+
+![Olatide's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OlatideJoseph&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OlatideJoseph&layout=compact&theme=tokyonight)
+
+---
+
+## ✨ Fun Fact
+
+> "I don't just learn tech—I reverse-engineer my curiosity into solutions that help people and industries move forward."
+
+---
+
+Thanks for stopping by! 🎯
+
+
+**✨ Tech Enthusiast ✨**
 
 <div align="center">
 	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=15F7A5&random=false&width=435&lines=Hi+there+%F0%9F%91%8B++I'm+Olatide+;Details+about+me...;Software+Engineer;Full-Stack+Developer;Tech+Problem+Solver" alt="Notice !!!" />
