@@ -22,17 +22,17 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
 
-[![Webcrawler's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OlatideJoseph&bg_color=ffffff&color=708090&line=21fc0d&point=000000&area=true&hide_border=true)](https://github.com/OlatideJoseph/)
+[![Webcrawler's github activity graph](https://github-readme-activity-graph-two-nu.vercel.app/graph?username=OlatideJoseph&bg_color=ffffff&color=708090&line=21fc0d&point=000000&area=true&hide_border=true)](https://github.com/OlatideJoseph/)
 
 <br>
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlatideJoseph&layout=donut-vertical" alt="Top languages"/>
+   <img src="https://github-readme-stats-rust-ten-40.vercel.app/api/top-langs/?username=OlatideJoseph&layout=donut-vertical" alt="Top languages"/>
 </p>
 
 <br>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=OlatideJoseph&show_icons=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-rust-ten-40.vercel.app/api?username=OlatideJoseph&show_icons=true" alt="GitHub Stats" />
 </div>
 <br>
 
