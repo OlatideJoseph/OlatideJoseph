@@ -1,7 +1,7 @@
 ## OlatideJoseph/WebCrawler
 # Olatide Joseph Adeniyi
 
-Full-Stack Developer → Transitioning into Systems & Firmware Engineering  
+Full-Stack Developer Adventure into Systems & Firmware Engineering  
 
 ---
 
