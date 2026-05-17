@@ -14,50 +14,6 @@ I am a Full-Stack Developer currently working with:
 - REST APIs
 - PostgreSQL
 
-
-I am currently focused on:
-
-- Modern C++ (C++17/20)
-- Control systems fundamentals
-- Real-time programming concepts
-- Drone firmware architecture
-- Simulation and physics-based modeling
-
-My long-term goal is to contribute to aerospace and autonomous systems software.
-
----
-
-## Current Focus
-
-- Building C++ systems projects
-- Writing control-loop simulations
-- Studying embedded firmware architecture
-- Exploring autopilot software like PX4 and ArduPilot
-- Strengthening data structures and algorithms in C++
-
----
-
-## Tech Stack
-
-### Backend
-- Python
-- Django
-- Flask
-- PostgreSQL
-- REST APIs
-
-### Frontend
-- React
-- Tailwind CSS
-- Vite
-
-### Systems & Low-Level (In Progress)
-- C++
-- Object-oriented design
-- Memory management
-- Build systems (CMake, xmake)
-- Linux development environment
-
 ---
 
 ## Selected Projects
@@ -67,25 +23,6 @@ My long-term goal is to contribute to aerospace and autonomous systems software.
 - RESTful API design and implementation
 - Data aggregation and reporting systems
 
-### Systems / C++ (Ongoing)
-- Control loop simulations (in progress)
-- Algorithm implementations in modern C++
-- Experimental firmware-style architecture projects
-
----
-
-## What I'm Building Toward
-
-Things am interested in:
-
-- Embedded systems engineering
-- Flight control firmware
-- Real-time systems
-- Robotics & autonomous systems software
-
-If you work in aerospace, robotics, or embedded systems and are open to collaboration or mentorship, I would appreciate connecting.
-
----
 
 > “Engineering is not just about making things work — it is about understanding why they work.”
 
